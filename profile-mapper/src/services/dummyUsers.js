@@ -2,7 +2,7 @@ export const dummyUsers = [
   {
     id: "u1",
     fullName: "Alice Johnson",
-    profilePic: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fprofessional-profile-photo&psig=AOvVaw2h6CRbZ2YhdSq8RJs4KBLi&ust=1748324369270000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiRoIC2wI0DFQAAAAAdAAAAABAE",
+    profilePic: "https://randomuser.me/api/portraits/women/17.jpg",
     description:
       "Alice is a Frontend Developer at TechSoft, specializing in building responsive and accessible web interfaces. She loves experimenting with new UI frameworks and enhancing user experience.",
     country: "USA",
@@ -13,7 +13,7 @@ export const dummyUsers = [
   {
     id: "u2",
     fullName: "Ravi Kumar",
-    profilePic: "https://randomuser.me/api/portraits/men/75.jpg",
+    profilePic: "https://randomuser.me/api/portraits/men/9.jpg",
     description:
       "Ravi is a Full Stack Engineer at DevSolutions, proficient in both frontend and backend technologies. He enjoys solving complex logic problems and mentoring junior developers.",
     country: "India",
@@ -24,7 +24,7 @@ export const dummyUsers = [
   {
     id: "u3",
     fullName: "Emma Smith",
-    profilePic: "https://randomuser.me/api/portraits/women/65.jpg",
+    profilePic: "https://randomuser.me/api/portraits/women/2.jpg",
     description:
       "Emma is a UI/UX Designer at CreativeCo with a passion for intuitive design and clean interfaces. She combines creativity with user research to deliver meaningful product experiences.",
     country: "Canada",
@@ -35,7 +35,7 @@ export const dummyUsers = [
   {
     id: "u4",
     fullName: "Carlos Mendez",
-    profilePic: "https://randomuser.me/api/portraits/men/52.jpg",
+    profilePic: "https://randomuser.me/api/portraits/men/47.jpg",
     description:
       "Carlos works as a Backend Developer at DataCorp, focusing on scalable architectures and secure APIs. He’s a problem-solver who thrives in high-performance environments and agile teams.",
     country: "Mexico",
