@@ -2,7 +2,7 @@ export const dummyUsers = [
   {
     id: "u1",
     fullName: "Alice Johnson",
-    profilePic: "https://randomuser.me/api/portraits/women/1.jpg",
+    profilePic: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fprofessional-profile-photo&psig=AOvVaw2h6CRbZ2YhdSq8RJs4KBLi&ust=1748324369270000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiRoIC2wI0DFQAAAAAdAAAAABAE",
     description:
       "Alice is a Frontend Developer at TechSoft, specializing in building responsive and accessible web interfaces. She loves experimenting with new UI frameworks and enhancing user experience.",
     country: "USA",
