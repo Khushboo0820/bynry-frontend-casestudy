@@ -1,14 +1,14 @@
 export const dummyUsers = [
   {
     id: "u1",
-    fullName: "Alice Johnson",
+    fullName: "Amelia Zoe",
     profilePic: "https://randomuser.me/api/portraits/women/17.jpg",
     description:
-      "Alice is a Frontend Developer at TechSoft, specializing in building responsive and accessible web interfaces. She loves experimenting with new UI frameworks and enhancing user experience.",
+      "Amelia is a Frontend Developer at TechSoft, specializing in building responsive and accessible web interfaces. She loves experimenting with new UI frameworks and enhancing user experience.",
     country: "USA",
     state: "California",
     city: "Los Angeles",
-    email: "alice.johnson@example.com",
+    email: "amelia.zoe@example.com",
   },
   {
     id: "u2",
@@ -34,13 +34,13 @@ export const dummyUsers = [
   },
   {
     id: "u4",
-    fullName: "Carlos Mendez",
+    fullName: "Gavin Ian",
     profilePic: "https://randomuser.me/api/portraits/men/47.jpg",
     description:
       "Carlos works as a Backend Developer at DataCorp, focusing on scalable architectures and secure APIs. He’s a problem-solver who thrives in high-performance environments and agile teams.",
     country: "Mexico",
     state: "Jalisco",
     city: "Guadalajara",
-    email: "carlos.mendez@example.mx",
+    email: "gavin.ian@example.mx",
   }
 ];
