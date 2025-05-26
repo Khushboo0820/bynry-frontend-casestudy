@@ -36,9 +36,9 @@ const handleViewDetails = useCallback(
               color: "text.secondary",
             }}
           >
-            Behind every success story is a team of committed professionals. Our
-            team brings deep expertise, integrity, and a shared mission to
-            deliver exceptional results.
+           Every success story is driven by a dedicated team. 
+           Our professionals bring expertise, integrity, and a unified vision to consistently deliver
+           outstanding results.
           </Typography>
 
           <Grid container rowSpacing={2} columnSpacing={2} sx={{ mt: 4 }}>
